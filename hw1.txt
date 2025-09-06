@@ -1,0 +1,15 @@
+sudo
+pwd
+rm -r
+ls
+mkdir
+cd
+history
+cat
+pico
+git config
+git status
+git add
+git clone
+git commit
+git push
